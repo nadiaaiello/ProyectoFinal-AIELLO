@@ -1,12 +1,12 @@
 //class constructora
 class producto{
-    constructor(id, nombre, descripcion, precio, img){
+    constructor(id, nombre, descripcion, precio, img, stock){
        this.id = id,
        this.nombre = nombre,
        this.descripcion = descripcion,
        this.precio = precio,
        this.img = img,
-       this.stock=stock
+       this.stock= stock
     }
  }
  
@@ -25,12 +25,12 @@ class producto{
 
 
  //CREAR UN ARRAY DE OBJETOS
-let stock = []
-stock.push(producto1,producto2,producto3,producto4,producto5)
+let products = []
+products.push(producto1,producto2,producto3,producto4,producto5)
 
 export const getProducts=()=>{
    return new Promise((resolve)=>{
-      setTimeout(()=>{resolve(stock)}, 5000
+      setTimeout(()=>{resolve(products)}, 5000
       )
    })
 }
