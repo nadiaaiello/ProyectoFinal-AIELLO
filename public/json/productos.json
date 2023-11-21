@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "dispositivos",
+        "nombre": "Play Station 5",
+        "marca": "Sony",
+        "modelo": "825 GB",
+        "precio": 342000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/ps5.jpg?alt=media&token=53e74c0a-09a3-4a5a-9d1a-07d0d2836402"
+    },
+    {
+        "id": 2,
+        "idCategoria": "dispositivos",
+        "nombre": "Play Station 4",
+        "marca": "Sony",
+        "modelo": "1 TB",
+        "precio": 165000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/ps4.jpg?alt=media&token=59242ac2-022d-45c6-ac47-1d006843a6a6"
+    },
+    {
+        "id": 3,
+        "idCategoria": "dispositivos",
+        "nombre": "Nintendo Switch",
+        "marca": "Nintendo",
+        "modelo": "Standard Gris y Negro",
+        "precio": 220000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/nintendo_switch.jpg?alt=media&token=0fb560af-697c-4962-892b-979a21b5084b"
+    },
+    {
+        "id": 4,
+        "idCategoria": "dispositivos",
+        "nombre": "Notebook Inspiron 3511",
+        "marca": "Dell",
+        "modelo": "Inspiron 3511",
+        "precio": 236000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/notebook_inspiron.jpg?alt=media&token=6feecc1e-62ce-44e6-b630-684cd6bfdbe4"
+    },
+    {
+        "id": 5,
+        "idCategoria": "dispositivos",
+        "nombre": "MacBook Air M2 2022",
+        "marca": "Apple",
+        "modelo": "M2 2022",
+        "precio": 486000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/mac_air.jpg?alt=media&token=87cdc5b8-7117-4a4a-930b-4d888d1bda0d"
+    },
+    {
+        "id": 6,
+        "idCategoria": "dispositivos",
+        "nombre": "Notebook Lenovo Ideapad Gaming",
+        "marca": "Lenovo",
+        "modelo": "Ideapad Gaming",
+        "precio": 390000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/ideapad_gaming.jpg?alt=media&token=f947d226-e1da-42e4-b24b-5db80aeb4bd6"
+    },
+    {
+        "id": 7,
+        "idCategoria": "videojuegos",
+        "nombre": "FIFA 23 PS4",
+        "marca": "PlayStation",
+        "modelo": "Edición Standard",
+        "precio": 18000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/fifa_23.jpg?alt=media&token=3ac81104-02a1-4709-828c-fe7997d0992a"
+    },
+    {
+        "id": 8,
+        "idCategoria": "videojuegos",
+        "nombre": "The Last of Us 2 PS4",
+        "marca": "PlayStation",
+        "modelo": "Edición Standard",
+        "precio": 16000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/last_of_us_2.jpg?alt=media&token=fe25ff3b-3820-4570-a8ca-a3903a92c711"
+    },
+    {
+        "id": 9,
+        "idCategoria": "videojuegos",
+        "nombre": "Spiderman: Miles Morales PS5",
+        "marca": "PlayStation",
+        "modelo": "Edición Standard",
+        "precio": 23000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/spiderman_ps5.webp?alt=media&token=d62b35c2-1bb4-4342-a4c7-16d24f2fa9b4"
+    },
+    {
+        "id": 10,
+        "idCategoria": "videojuegos",
+        "nombre": "Watch Dogs Legion PS5",
+        "marca": "PlayStation",
+        "modelo": "Edición Standard",
+        "precio": 18000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/watch_dogs.jpg?alt=media&token=e7a2dbdb-10b3-4dac-b9bf-9fe33a1c705d"
+    },
+    {
+        "id": 11,
+        "idCategoria": "videojuegos",
+        "nombre": "Assassin's Creed: Valhalla PS5",
+        "marca": "PlayStation",
+        "modelo": "Edición Limitada",
+        "precio": 22000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/assassins_creed_valhalla.jpg?alt=media&token=1eaad9b7-d929-41e1-bb6e-9f8bdb06f518"
+    },
+    {
+        "id": 12,
+        "idCategoria": "videojuegos",
+        "nombre": "Just Dance Nintendo Switch",
+        "marca": "Nintendo Switch",
+        "modelo": "Edición 2023",
+        "precio": 22600,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/just_dance_2023_nintendo.jpg?alt=media&token=248ca353-7ee4-4480-b035-9709f43279e1"
+    },
+    {
+        "id": 13,
+        "idCategoria": "accesorios",
+        "nombre": "Mouse Gamer Mad Catz",
+        "marca": "Mad Catz",
+        "modelo": "The Authentic R.A.T 4+",
+        "precio": 16800,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/mouse_mad_catz.jpg?alt=media&token=78442157-7a0a-4a47-9c51-bb1557c494ff"
+    },
+    {
+        "id": 14,
+        "idCategoria": "accesorios",
+        "nombre": "Mouse Inalámbrico Negro",
+        "marca": "Logitech",
+        "modelo": "M280",
+        "precio": 6020,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/mouse_logitech.jpeg?alt=media&token=f35b8297-7231-402c-ad46-e2e4e6d42e88"
+    },
+    {
+        "id": 15,
+        "idCategoria": "accesorios",
+        "nombre": "Teclado Mecánico con Bluetooth Retroiluminado",
+        "marca": "Redragon",
+        "modelo": "K616-RGB-AR",
+        "precio": 17850,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/teclado_redragon.jpg?alt=media&token=a69e98d3-1e73-43d9-9b5a-65a8176e58ef"
+    },
+    {
+        "id": 16,
+        "idCategoria": "accesorios",
+        "nombre": "Auriculares Airpods Blancos",
+        "marca": "Apple",
+        "modelo": "MV7N2",
+        "precio": 28900,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/airpods.jpg?alt=media&token=bf806c20-239b-42f6-b823-6f8fe23bd4b9"
+    },
+    {
+        "id": 17,
+        "idCategoria": "accesorios",
+        "nombre": "Auriculares Cascos Gamer Retroiluminado",
+        "marca": "Gadnic",
+        "modelo": "A8800 Play",
+        "precio": 11900,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/auriculares_gadnic.jpg?alt=media&token=60e9b599-e470-4589-94ff-ac0c147351af"
+    },
+    {
+        "id": 18,
+        "idCategoria": "accesorios",
+        "nombre": "Auriculares Cascos con Bluetooth Inalámbricos",
+        "marca": "JBL",
+        "modelo": "510BT",
+        "precio": 12900,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/auriculares_jbl.jpg?alt=media&token=18cd7f45-62c0-4439-9eeb-121e2ab0d2fc"
+    },
+    {
+        "id": 19,
+        "idCategoria": "accesorios",
+        "nombre": "Mouse Pad Gaming Megro Havit ",
+        "marca": "Havit",
+        "modelo": "HV-MP",
+        "precio": 1500,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/mousepad_havit.jpg?alt=media&token=481f4bda-cf34-4374-a82a-a73c81896eaf"
+    },
+    {
+        "id": 20,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick PS5 DualSense Cosmic Red",
+        "marca": "Sony",
+        "modelo": "CFI-ZCT1",
+        "precio": 32500,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/joystick.jpg?alt=media&token=6042c6c7-ce0d-4816-833a-33a7f0983326"
+    },
+    {
+        "id": 21,
+        "idCategoria": "componentes",
+        "nombre": "Tarjeta Gráfica Nvidia GeForce RTX 2060",
+        "marca": "Asus",
+        "modelo": "RTX 2060 OC Edition",
+        "precio": 180900,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/nvidia_rtx_2060.webp?alt=media&token=f3e2e644-50ce-489a-93aa-02b0c6aaff9d"
+    },
+    {
+        "id": 22,
+        "idCategoria": "componentes",
+        "nombre": "Placa de video AMD Radeon RX 6900",
+        "marca": "Asus",
+        "modelo": "RX 6900 XT",
+        "precio": 390200,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/amd_rx_2900.jpg?alt=media&token=aa51f9d6-b67e-44c3-b015-5184bd4241f5"
+    },
+    {
+        "id": 23,
+        "idCategoria": "componentes",
+        "nombre": "Memoria RAM 16GB DDR4 Gamer RGB",
+        "marca": "Kingston",
+        "modelo": "KF432C16BBA/16",
+        "precio": 28900,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/ram_16gb_kingston.jpg?alt=media&token=cbccfe7d-10d7-4872-93fb-d1384ff10627"
+    },
+    {
+        "id": 24,
+        "idCategoria": "componentes",
+        "nombre": "Procesador Intel i7 8 Núcleos 5.1GHz",
+        "marca": "Intel",
+        "modelo": "Core i7",
+        "precio": 130500,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/intel_i7.webp?alt=media&token=c5aab7ef-c6f5-4941-a71d-3731d4d5ac5b"
+    },
+    {
+        "id": 25,
+        "idCategoria": "componentes",
+        "nombre": "Disco Sólido Interno Kingston 480GB",
+        "marca": "Kingston",
+        "modelo": "SA400S37/480G",
+        "precio": 13100,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/disco_kingston_480gb.jpg?alt=media&token=8a9073cd-ae28-43a8-b60b-a88dbfa155a2"
+    },
+    {
+        "id": 26,
+        "idCategoria": "componentes",
+        "nombre": "Monitor Samsung Odyssey Crg5 24'' Curvo",
+        "marca": "Samsung",
+        "modelo": "Odyssey CRG5",
+        "precio": 89900,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ongame-dc4f1.appspot.com/o/monitor_samsung.webp?alt=media&token=5a8ca690-f0e5-45e0-9ec8-7ba9cb40da4e"
+    }       
+]

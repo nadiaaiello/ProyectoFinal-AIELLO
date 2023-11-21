@@ -1,11 +1,15 @@
-import Item from '../Item/Item'
-import React from 'react'
-
-const ItemList=({products})=> {
+import Item from "../Item/Item"
+import ItemCart from "../ItemCart/ItemCart"
+const ItemList = ({products, plantilla}) => {
   return (
-    <div>
-        {products.map(prod=> <Item key={prod.id} {...prod}/>)}
-    </div>
+    <>
+    {plantilla === "item" 
+        ? 
+        products.map(product => <Item item={product} key={product.id}/>)
+        :
+        products.map(product => <ItemCart item={product} key={product.id}/>)
+      }
+    </>
   )
 }
 
